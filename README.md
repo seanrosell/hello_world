@@ -1,3 +1,5 @@
 # hello_world
-Seans test repository
+Here is some more info that i forgot
+
+
 Im doing some test editing here
